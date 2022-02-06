@@ -15,6 +15,9 @@ def malben(x, y, grade):
     goto(x, y - 20)
     pendown()
     write(name)
+
+
+    
 x = -300
 while True:
     name = input("Enter your name or quit to stop:")
