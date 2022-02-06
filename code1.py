@@ -17,6 +17,8 @@ def malben(x, y, grade):
     write(name)
 
 
+
+
     
 x = -300
 while True:
